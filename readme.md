@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badzlan&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> <img src="https://img.shields.io/github/followers/badzlan?label=Followers&style=social" alt="followers" /></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0x1m4o&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> <img src="https://img.shields.io/github/followers/0x1m4o?label=Followers&style=social" alt="followers" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
