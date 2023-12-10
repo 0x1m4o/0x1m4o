@@ -1,8 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm M Duta Chandra</h1>
-  <p>
-    <img src="https://github.com/0x1m4o/0x1m4o/blob/main/hi.gif?raw=true" width="35px" height='35px'>
-  </p>
+  <h1>Hi, I'm M Duta Chandra<p><img src="https://github.com/0x1m4o/0x1m4o/blob/main/hi.gif?raw=true" width="35px" height='35px'><p></h1>
   <h3>FrontEnd Developer from Indonesia</h3>
 
   <div>
