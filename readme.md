@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">FrontEnd Developer from Indonesia</h3>
 
-<div align="center">
+<div style="display: flex; justify-content:center; align-items:center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="45%" alt="Top Languages">
   <div style="width:45% ">
       <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
