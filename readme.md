@@ -3,6 +3,7 @@
   <h3>FrontEnd Developer from Indonesia</h3>
 
 
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="90%">
 
   <h3>Languages and Tools:</h3>
   <p>
@@ -22,7 +23,6 @@
   </p>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
-    <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="48%">
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=react&hide_border=false&include_all_commits=true&count_private=false" width="90%">
