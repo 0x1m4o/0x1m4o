@@ -22,13 +22,13 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </p>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
-  </div>
-  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=react&hide_border=false&include_all_commits=true&count_private=false" width="90%">
   </div>
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1m4o&theme=react&hide_border=false" width="90%">
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
   </div>
 
 </div>
