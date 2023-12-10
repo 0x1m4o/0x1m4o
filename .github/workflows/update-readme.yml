@@ -1,0 +1,26 @@
+name: Update Recent Commits
+
+on:
+  schedule:
+    - cron: '0 * * * *' 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Get recent commits
+        run: |
+          git log --pretty=format:"- %s" -n 5 > recent_commits.txt
+
+      - name: Update README
+        run: |
+          sed -i '/<!-- COMMIT_LIST_START -->/,<!-- COMMIT_LIST_END -->/c\<!-- COMMIT_LIST_START -->\n'"$(cat recent_commits.txt)"'\n<!-- COMMIT_LIST_END -->' README.md
+          rm recent_commits.txt
+          git config --global user.email "chuntdevnx@gmail.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update recent commits" || true
+          git push
