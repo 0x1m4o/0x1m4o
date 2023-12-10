@@ -3,7 +3,7 @@
   <h3>FrontEnd Developer from Indonesia</h3>
 
 
-  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="90%">
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="90%" height="400px">
 
   <h3>Languages and Tools:</h3>
   <p>
