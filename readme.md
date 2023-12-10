@@ -2,10 +2,7 @@
   <h1>Hi, I'm M Duta Chandra<span><img src="https://github.com/0x1m4o/0x1m4o/blob/main/hi.gif?raw=true" width="30px" height='30px'><span></h1>
   <h3>FrontEnd Developer from Indonesia</h3>
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=react&hide_border=false&include_all_commits=true&count_private=false" width="48%"  alt="GitHub Stats">
-  </div>
+
 
   <h3>Languages and Tools:</h3>
   <p>
@@ -23,7 +20,15 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </p>
-
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
+     <span width="48%">
+        <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=react&hide_border=false&include_all_commits=true&count_private=false" width="48%"  alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1m4o&theme=react&hide_border=false" width="48%">
+     </span>
+  </div>
+    <div>
+  </div>
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1m4o&theme=react&hide_border=false" width="90%">
   </div>
