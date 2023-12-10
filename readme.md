@@ -23,13 +23,8 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
      <span width="48%">
-        <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=react&hide_border=false&include_all_commits=true&count_private=false" width="48%"  alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1m4o&theme=react&hide_border=false" width="48%">
+        <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=react&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1m4o&theme=react&hide_border=false">
      </span>
-  </div>
-    <div>
-  </div>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1m4o&theme=react&hide_border=false" width="90%">
   </div>
 </div>
