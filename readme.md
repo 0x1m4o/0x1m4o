@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm M Duta Chandra<span><img src="https://github.com/0x1m4o/0x1m4o/blob/main/hi.gif?raw=true" width="30px" height='30px'><span></h1>
-  <h3>FrontEnd Developer from Indonesia</h3>
+  <h3>Software Developer from Indonesia</h3>
 
 
   <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="90%" height="400px">
