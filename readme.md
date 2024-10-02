@@ -28,8 +28,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1m4o&theme=react&hide_border=false" width="90%">
   </div>  
   <br>
-  <div style="display: grid; align-items: start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=dart&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="48%" alt="Stats">
+  <div style="display: grid; grid-template-columns: 1fr; align-items: start; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="100%" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=dart&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="100%" alt="Stats">
   </div>
 </div>
