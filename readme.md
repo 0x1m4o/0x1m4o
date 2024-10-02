@@ -30,6 +30,6 @@
   <br>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o](https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=dart&show_icons=true&hide_border=true&count_private=true&rank_icon=github)" width="48%" alt="Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=dart&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="48%" alt="Stats">
   </div>
 </div>
