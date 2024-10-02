@@ -28,7 +28,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1m4o&theme=react&hide_border=false" width="90%">
   </div>  
   <br>
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: grid; align-items: start;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
     <img src="https://github-readme-stats.vercel.app/api?username=0x1m4o&theme=dart&show_icons=true&hide_border=true&count_private=true&rank_icon=github" width="48%" alt="Stats">
   </div>
