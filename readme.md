@@ -1,4 +1,5 @@
 <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x1m4o&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> <img src="https://img.shields.io/github/followers/0x1m4o?label=Followers&style=social" alt="followers" /></a></p>
   <h1>Hi, I'm Chandra<span><img src="https://github.com/0x1m4o/0x1m4o/blob/main/hi.gif?raw=true" width="30px" height='30px'><span></h1>
   <h3>Software Developer from Indonesia</h3>
 
