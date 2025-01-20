@@ -24,9 +24,6 @@
   <br>
   <h3>Stats:</h3>
   <br>
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x1m4o&theme=react&hide_border=false" width="90%">
-  </div>  
   <br>
   <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1m4o" width="48%" alt="Top Languages">
